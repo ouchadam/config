@@ -29,7 +29,7 @@ sudo pacman -S \
 # configure
 
 mkdir -p ~/.config/sway/
-wget -o  ~/.config/sway/config.in https://github.com/ouchadam/config/blob/main/sway/config.in
+wget -o  ~/.config/sway/config.in https://raw.githubusercontent.com/ouchadam/config/main/sway/config.in
 
 
 # install various
